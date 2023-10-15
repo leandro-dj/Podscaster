@@ -1,0 +1,73 @@
+C:\Users\Leandro\Desktop\ETEC DESENVOLVIMENTO DE SISTEMAS\C#\Projetos\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.exe
+C:\Users\Leandro\Desktop\ETEC DESENVOLVIMENTO DE SISTEMAS\C#\Projetos\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.deps.json
+C:\Users\Leandro\Desktop\ETEC DESENVOLVIMENTO DE SISTEMAS\C#\Projetos\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.runtimeconfig.json
+C:\Users\Leandro\Desktop\ETEC DESENVOLVIMENTO DE SISTEMAS\C#\Projetos\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.dll
+C:\Users\Leandro\Desktop\ETEC DESENVOLVIMENTO DE SISTEMAS\C#\Projetos\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.pdb
+C:\Users\Leandro\Desktop\ETEC DESENVOLVIMENTO DE SISTEMAS\C#\Projetos\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\ETEC DESENVOLVIMENTO DE SISTEMAS\C#\Projetos\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\ETEC DESENVOLVIMENTO DE SISTEMAS\C#\Projetos\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\ETEC DESENVOLVIMENTO DE SISTEMAS\C#\Projetos\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\ETEC DESENVOLVIMENTO DE SISTEMAS\C#\Projetos\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\ETEC DESENVOLVIMENTO DE SISTEMAS\C#\Projetos\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.dll
+C:\Users\Leandro\Desktop\ETEC DESENVOLVIMENTO DE SISTEMAS\C#\Projetos\Podcaster\Podcaster\obj\Debug\net6.0\refint\Podcaster.dll
+C:\Users\Leandro\Desktop\ETEC DESENVOLVIMENTO DE SISTEMAS\C#\Projetos\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.pdb
+C:\Users\Leandro\Desktop\ETEC DESENVOLVIMENTO DE SISTEMAS\C#\Projetos\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.genruntimeconfig.cache
+C:\Users\Leandro\Desktop\ETEC DESENVOLVIMENTO DE SISTEMAS\C#\Projetos\Podcaster\Podcaster\obj\Debug\net6.0\ref\Podcaster.dll
+C:\Users\Professor\Downloads\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.exe
+C:\Users\Professor\Downloads\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.deps.json
+C:\Users\Professor\Downloads\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.runtimeconfig.json
+C:\Users\Professor\Downloads\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.dll
+C:\Users\Professor\Downloads\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.pdb
+C:\Users\Professor\Downloads\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor\Downloads\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.AssemblyInfoInputs.cache
+C:\Users\Professor\Downloads\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.AssemblyInfo.cs
+C:\Users\Professor\Downloads\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Downloads\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.dll
+C:\Users\Professor\Downloads\Podcaster\Podcaster\obj\Debug\net6.0\refint\Podcaster.dll
+C:\Users\Professor\Downloads\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.pdb
+C:\Users\Professor\Downloads\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.genruntimeconfig.cache
+C:\Users\Professor\Downloads\Podcaster\Podcaster\obj\Debug\net6.0\ref\Podcaster.dll
+C:\Users\Leandro\Desktop\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.exe
+C:\Users\Leandro\Desktop\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.deps.json
+C:\Users\Leandro\Desktop\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.runtimeconfig.json
+C:\Users\Leandro\Desktop\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.dll
+C:\Users\Leandro\Desktop\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.pdb
+C:\Users\Leandro\Desktop\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.dll
+C:\Users\Leandro\Desktop\Podcaster\Podcaster\obj\Debug\net6.0\refint\Podcaster.dll
+C:\Users\Leandro\Desktop\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.pdb
+C:\Users\Leandro\Desktop\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.genruntimeconfig.cache
+C:\Users\Leandro\Desktop\Podcaster\Podcaster\obj\Debug\net6.0\ref\Podcaster.dll
+F:\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.exe
+F:\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.deps.json
+F:\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.runtimeconfig.json
+F:\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.dll
+F:\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.pdb
+F:\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.GeneratedMSBuildEditorConfig.editorconfig
+F:\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.AssemblyInfoInputs.cache
+F:\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.AssemblyInfo.cs
+F:\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.csproj.CoreCompileInputs.cache
+F:\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.dll
+F:\Podcaster\Podcaster\obj\Debug\net6.0\refint\Podcaster.dll
+F:\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.pdb
+F:\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.genruntimeconfig.cache
+F:\Podcaster\Podcaster\obj\Debug\net6.0\ref\Podcaster.dll
+H:\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.exe
+H:\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.deps.json
+H:\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.runtimeconfig.json
+H:\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.dll
+H:\Podcaster\Podcaster\bin\Debug\net6.0\Podcaster.pdb
+H:\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.csproj.AssemblyReference.cache
+H:\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.GeneratedMSBuildEditorConfig.editorconfig
+H:\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.AssemblyInfoInputs.cache
+H:\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.AssemblyInfo.cs
+H:\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.csproj.CoreCompileInputs.cache
+H:\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.dll
+H:\Podcaster\Podcaster\obj\Debug\net6.0\refint\Podcaster.dll
+H:\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.pdb
+H:\Podcaster\Podcaster\obj\Debug\net6.0\Podcaster.genruntimeconfig.cache
+H:\Podcaster\Podcaster\obj\Debug\net6.0\ref\Podcaster.dll
